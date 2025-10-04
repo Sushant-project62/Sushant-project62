@@ -18,11 +18,21 @@
 
 ## 🔭 Featured Projects
 
-* **Predictive Analysis of Car Pricing** — ML model + Jupyter notebooks for used car price prediction.
-* **Multilingual Car Review Sentiment Analysis** — Hindi → English translation + VADER + TF-IDF logistic model; deployed with Streamlit.
-* **Smart Farming (IoT + ML)** — Real-time sensor data → RandomForest crop recommendations + Blynk dashboard.
-* **CarDekho Website Analysis (July 2025)** — Web analytics: traffic, SEO, competitor benchmarking, recommendations.
+**🚗 Used Car Price Prediction**
 
+Machine Learning model with Flask web app to predict used car prices based on company, model, year, kilometers driven, and fuel type.
+
+**📊 CarDekho Website Analysis Report**
+
+Web analytics project using SimilarWeb, Excel, and visualization tools to analyze 105M+ visits, SEO dominance, and digital marketing performance of CarDekho.com.
+
+**🌐 Multilingual Car Review Sentiment Analysis**
+
+Cross-language sentiment analysis using Deep-Translator + VADER + Logistic Regression. Deployed with Streamlit for real-time predictions. Achieved 86% accuracy.
+
+**🌱 Smart Farming – IoT Crop Recommendation**
+
+IoT + ML based solution to recommend suitable crops using sensor data (temperature, humidity, soil moisture). Integrated with Blynk Cloud for real-time mobile dashboard.
 *(Click any repo title on my profile to open the project — detailed READMEs in each repo.)*
 
 ---
