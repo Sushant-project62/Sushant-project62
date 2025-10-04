@@ -1,9 +1,11 @@
 # 👋 Hi, I’m Sushant Rathod
 
-🎓 M.Sc. Data Analytics (Pillai College, Mumbai)
+🎓 Master’s Student in Data Analytics @ Pillai College of Arts, Commerce & Science (Mumbai University)
 💡 I build data-driven solutions in **Machine Learning, NLP, Web Analytics, and IoT**.
-🌱 Currently focused on applied ML projects: pricing models, sentiment analysis, IoT crop recommendation, and web analytics.
-
+🌱 Currently focused on applied ML projects: **pricing models, sentiment analysis, IoT crop recommendation, and web analytics.**
+💡 Passionate about **Data Analysis, Machine Learning, AI, and IoT**
+📊 Skilled in **Python, R, SQL, Data Visualization, and Statistical Analysis**
+ 
 ---
 
 ## 🔧 Skills
