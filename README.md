@@ -29,20 +29,26 @@
 Machine Learning model with Flask web app to predict used car prices based on company, model, year, kilometers driven, and fuel type.
 Uniqueness: End-to-end pipeline **(EDA → model training → deployment).**
 Performance: Achieved **92%** R² score and low RMSE, ensuring reliable price predictions.
+
 **link:** https://github.com/Sushant-project62/-Used-Car-Price-Prediction
+
 
 **📊 CarDekho Website Analysis Report**
 
 Web analytics project using SimilarWeb, Excel, and visualization tools to analyze 105M+ visits, SEO dominance, and digital marketing performance of CarDekho.com.
 Uniqueness: Actionable insights on SEO, traffic, competitor benchmarking.
 Performance: Insights backed by real SimilarWeb data (100M+ visits) — ensuring high reliability instead of accuracy **94%** (since it’s analytics).
-**link:**
+
+**link:** https://github.com/Sushant-project62/-CarDekho-Website-Analysis-Report-July-2025-
+
 
 **🌐 Multilingual Car Review Sentiment Analysis**
 
 Cross-language sentiment analysis using Deep-Translator + VADER + Logistic Regression. Deployed with Streamlit for real-time predictions.
 Uniqueness: Multilingual pipeline with **translation + ML (TF-IDF + Logistic Regression) + Streamlit app.**
 Performance: Achieved **86%** classification accuracy **(strong for positive/negative, weaker on neutral due to class imbalance).**
+
+**link:** https://github.com/Sushant-project62/-Multilingual-Car-Review-Sentiment-Analysis
 
 
 **🌱 Smart Farming – IoT Crop Recommendation**
@@ -52,6 +58,7 @@ An IoT + ML-based crop recommendation system using **sensor data + Random Forest
 Uniqueness: Real-time IoT integration with cloud dashboard **(Blynk)** for farmers.
 Performance: Achieved **95%** model accuracy on the crop dataset **(validated on test set, not overfit).**
 
+**link:** https://github.com/Sushant-project62/-Smart-Farming-IoT-ML-based-Crop-Recommendation-System
 
 ---
 
