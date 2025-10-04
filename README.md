@@ -39,7 +39,7 @@ Cross-language sentiment analysis using Deep-Translator + VADER + Logistic Regre
 **🌱 Smart Farming – IoT Crop Recommendation**
 
 IoT + ML based solution to recommend suitable crops using sensor data (temperature, humidity, soil moisture). Integrated with Blynk Cloud for real-time mobile dashboard.
-*(Click any repo title on my profile to open the project — detailed READMEs in each repo.)*
+
 
 ---
 
